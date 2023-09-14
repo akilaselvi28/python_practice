@@ -1,0 +1,6 @@
+my_age=21
+your_age=40
+if (my_age>your_age):
+    print("your are not older than me!")
+else:
+    print("your are older than me..!")    
